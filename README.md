@@ -1,3 +1,5 @@
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/opencode-manager)
+
 # OpenCode Manager (Railway)
 
 Mobile-first web interface for OpenCode AI agents, deployed on Railway.
