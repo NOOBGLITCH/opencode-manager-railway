@@ -1,4 +1,4 @@
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/opencode-manager)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/opencode-manager-1)
 
 # OpenCode Manager (Railway)
 
